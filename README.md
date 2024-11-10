@@ -1,4 +1,4 @@
-# Blocky Vioneta theme
+# Sleek Vioneta theme
 
 This theme gives a sleek, modern look to your Vioneta interface with support for light and dark mode.
 
